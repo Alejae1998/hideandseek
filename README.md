@@ -34,8 +34,6 @@ Look closely at the HTML provided for you. When you add a class called `face` to
 ### Rubric
 
 | Task                                                                                                 |     |
-| :--------------------------------------------------------------------------------------------------- | --: |
-| On clicking a hiding place button, the total number of guesses increment                             |   2 |
-| On clicking the correct hiding place button, the total number of correct guesses increment           |   2 |
-| On clicking the incorrect hiding place button, the number of incorrect guesses increments            |   2 |
-| On click, see the correct hiding place's image change, clearing out the previous correct guess style |   4 |
+#JavaScript
+Grab the element 
+Add the face element
